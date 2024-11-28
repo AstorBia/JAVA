@@ -1,0 +1,30 @@
+2024-09-04 12:19:56 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 12:20:45 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 12:23:46 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:08:44 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:13:18 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:24:36 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:29:26 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:29:29 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:30:09 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:45), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 13:32:34 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:33:30 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:35:53 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:36:32 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:37:46 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 13:39:52 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 15:12:06 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 15:17:16 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 15:18:01 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:43), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 15:18:13 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 15:57:27 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:00:32 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:01:21 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:47), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 16:03:47 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:03:54 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:06:33 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:47), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 16:18:04 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:19:30 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:48), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 16:22:11 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-09-04 16:23:35 [main] FATAL Main - Erro fatal: Cannot invoke "String.equalsIgnoreCase(String)" because the return value of "Entidades.AudioBook.getCategoria()" is null-[Repositorio.AudioBookRepositorio.findByAudioBook(AudioBookRepositorio.java:48), Entidades.Menu.mostraMenu(Menu.java:62), Main.main(Main.java:27)] 
+2024-09-04 16:23:42 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 

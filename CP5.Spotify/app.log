@@ -1,0 +1,23 @@
+2024-10-15 17:02:28 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado <<
+2024-10-16 10:31:03 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 10:31:55 [main] FATAL Main - Erro fatal: Cannot invoke "java.util.List.iterator()" because "listaAudioBook" is null-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:116), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 10:44:50 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 10:45:01 [main] FATAL Main - Erro fatal: Cannot invoke "java.util.List.iterator()" because "listaAudioBook" is null-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:116), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:03:19 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:06:17 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:08:08 [main] FATAL Main - Erro fatal: Cannot invoke "java.util.List.iterator()" because "listaAudioBook" is null-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:119), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:09:31 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:09:37 [main] FATAL Main - Erro fatal: Cannot invoke "java.util.List.iterator()" because "listaAudioBook" is null-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:119), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:10:27 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:10:34 [main] FATAL Main - Erro fatal: Cannot invoke "java.util.List.iterator()" because "listaAudioBook" is null-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:119), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:11:24 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:11:38 [main] FATAL Main - Erro fatal: class Entidades.T_AudioBook cannot be cast to class java.util.List (Entidades.T_AudioBook is in unnamed module of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:116), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:14:58 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:15:06 [main] FATAL Main - Erro fatal: class Entidades.T_AudioBook cannot be cast to class java.util.List (Entidades.T_AudioBook is in unnamed module of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:116), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:17:36 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 11:17:45 [main] FATAL Main - Erro fatal: class Entidades.T_AudioBook cannot be cast to class java.util.List (Entidades.T_AudioBook is in unnamed module of loader 'app'; java.util.List is in module java.base of loader 'bootstrap')-[Operacional.MenuOperacoes.buscarAnoLancamento(MenuOperacoes.java:116), Operacional.Menu.mostraMenu(Menu.java:77), Main.main(Main.java:28)] 
+2024-10-16 11:36:41 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 14:07:08 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 14:18:32 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 14:30:34 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
+2024-10-16 14:43:41 [main] INFO  Main - >> Sistema de AudioBook do Spotify Iniciado << 
